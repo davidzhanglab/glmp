@@ -1,0 +1,12 @@
+torch
+timm
+huggingface-hub
+scikit-learn
+scikit-image
+opencv-python
+google-generativeai
+numpy
+Pillow
+tqdm
+matplotlib
+google-genai
